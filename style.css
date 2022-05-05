@@ -1044,3 +1044,22 @@ h4 {
 .change-text{
     font-size: 20px;
 }
+
+.midnightblue{
+    color: #364577;
+}
+
+.orange{
+    color: #F3976C;
+}
+
+
+.btn-atomic-midnight {
+    background: #576fbf;
+    color: #FFFFFF !important;
+}
+
+.btn-atomic-midnight:hover {
+    background: #364577 !important;
+    color: #FFFFFF !important;
+}
